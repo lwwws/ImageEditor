@@ -7,7 +7,7 @@ A modular image processing pipeline via JSON configs and custom filters.
 - Supports blur, sharpen, brightness, contrast, and more
 - Fully extendable — define your own filters by inheriting from BaseFilter
 - Runs filters sequentially using config files
-- CLI interface: `edit_image`
+- CLI interface: `edit-image`
 
 ## Installation
 
