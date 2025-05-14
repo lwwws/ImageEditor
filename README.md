@@ -17,6 +17,6 @@ pip install -e .
 
 Or use the following script:
 
-- install.sh (Linux/macOS)
+- install.sh
 
 May need xdg-utils for displaying images on linux (+ wslview if on wsl)
