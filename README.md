@@ -1,6 +1,6 @@
-# edit-image
+# ImageEditor
 
-A modular image processing pipeline via JSON configs and custom filters.
+A terminal-based modular image processing pipeline via JSON configs and custom filters.
 
 ## Features
 
