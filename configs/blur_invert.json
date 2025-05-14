@@ -1,0 +1,20 @@
+{
+  "input": "input_images/cat.png",
+  "output": "output_images/cat_edited.png",
+  "display": true,
+  "operations": [
+    {
+      "type": "brightness",
+      "alpha": 0.6
+    },
+    {
+      "type": "box",
+      "width": 5,
+      "height": 3
+    },
+    {
+      "type": "contrast",
+      "alpha": -3
+    }
+  ]
+}

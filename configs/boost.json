@@ -1,0 +1,27 @@
+{
+  "input": "input_images/dark.png",
+  "output": "output_images/dark_edited.png",
+  "display": true,
+  "operations": [
+    {
+      "type": "contrast",
+      "alpha": 3.0
+    },
+    {
+      "type": "saturation",
+      "alpha": 25.0
+    },
+    {
+      "type": "brightness",
+      "alpha": 30.0
+    },
+    {
+      "type": "box",
+      "alpha": 0.2
+    },
+    {
+      "type": "sharpen",
+      "alpha": 1.0
+    }
+  ]
+}

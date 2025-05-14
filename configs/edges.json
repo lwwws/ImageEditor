@@ -1,0 +1,15 @@
+{
+  "input": "input_images/cat.png",
+  "output": "output_images/cat_edited.png",
+  "display": true,
+  "operations": [
+    {
+      "type": "box",
+      "alpha": 0.1
+    },
+    {
+      "type": "sobel",
+      "size": 3
+    }
+  ]
+}

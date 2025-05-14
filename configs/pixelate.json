@@ -1,0 +1,10 @@
+{
+  "input": "input_images/cover.png",
+  "display": true,
+  "operations": [
+    {
+      "type": "retro",
+      "block_size": 8
+    }
+  ]
+}

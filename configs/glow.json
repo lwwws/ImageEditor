@@ -1,0 +1,11 @@
+{
+  "input": "input_images/night.png",
+  "output": "output_images/night_edited.png",
+  "display": true,
+  "operations": [
+    {
+      "type": "glow",
+      "glow_boost": 3
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+[project]
+name = "edit-image"
+version = "0.1.0"
+description = "Image editting pipeline CLI"
+authors = [{ name = "lwwws" }]
+readme = "README.md"
+requires-python = ">=3.7"
+dependencies = ["numpy", "Pillow"]
+
+[tool.setuptools]
+packages = ["filters", "edit_image"]
+
+[project.scripts]
+edit-image = "edit_image.cli:main"

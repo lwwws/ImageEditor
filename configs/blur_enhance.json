@@ -1,0 +1,19 @@
+{
+  "input": "input_images/sunglasses.png",
+  "output": "output_images/sunglasses_edited.png",
+  "display": true,
+  "operations": [
+    {
+      "type": "brightness",
+      "alpha": -20
+    },
+    {
+      "type": "contrast",
+      "alpha": 1
+    },
+    {
+      "type": "box",
+      "alpha": 0.3
+    }
+  ]
+}
